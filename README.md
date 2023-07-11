@@ -1,1 +1,1 @@
-[![Portfolio][portfolio-shield]][portfolio-url]
+# 👋🏾  Hi! I'm Rimi.
