@@ -2,9 +2,9 @@
 
 **`✨ Welcome To My Github ✨`** 
 
-<a><img src="https://img.shields.io/badge/-Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio"></a>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img alt="Portfolio" title="Subscribe to my YouTube channel" src="browser.svg"></a>
-</p>
+</p> -->
