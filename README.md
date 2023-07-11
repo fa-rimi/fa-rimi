@@ -1,3 +1,3 @@
-# 👋🏾  Hi! I'm Rimi.
+<h2 align="center"> 👋🏾  Hi! I'm Rimi. </h2>
 
-**`Software Engineer In The Making`**
+**`Welcome To My Github`**
